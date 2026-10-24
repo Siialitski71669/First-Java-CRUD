@@ -1,4 +1,4 @@
-# First Java CRUD
+# First Java CRUD project
 
 Simple Java CRUD application using Swing.
 
